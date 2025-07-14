@@ -1,0 +1,7 @@
+name: crowdsourcing-te
+channels:
+  - conda-forge
+dependencies:
+  - openai
+  - numpy
+  - matplotlib
